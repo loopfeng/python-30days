@@ -9,3 +9,8 @@ print("Giá trị của b là:", b)  # In ra giá trị của b
 print("Giá trị của c là:", c)  # In ra giá trị của c
 print(a,b,end = " -\n ")
 print(c)
+#Comment
+# Đây là một comment đơn dòng
+"""
+Đây là một comment đa dòng
+Bạn có thể viết nhiều dòng comment ở đây"""
