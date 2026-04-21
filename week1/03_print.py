@@ -14,3 +14,14 @@ print(c)
 """
 Đây là một comment đa dòng
 Bạn có thể viết nhiều dòng comment ở đây"""
+#Bài tập
+"""ten = input("Nhập tên của bạn: ")
+tuoi = int(input("Nhập tuổi của bạn: "))
+print("Xin chào", ten + "!")
+print("Bạn", tuoi, "tuổi. Năm nay bạn sinh năm", 2025 - tuoi)"""
+import os
+os.system('cls')# Xóa những gì đã in ra trước đó
+ten = input("Nhap ten cua ban:")
+tuoi = int(input("Nhap tuoi cua ban:"))
+print("Xin chao", ten + "!")
+print("Ban", tuoi, "tuoi.Nam nay ban sinh nam", 2026 - tuoi)
