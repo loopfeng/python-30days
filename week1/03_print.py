@@ -25,3 +25,4 @@ ten = input("Nhap ten cua ban:")
 tuoi = int(input("Nhap tuoi cua ban:"))
 print("Xin chao", ten + "!")
 print("Ban", tuoi, "tuoi.Nam nay ban sinh nam", 2026 - tuoi)
+
